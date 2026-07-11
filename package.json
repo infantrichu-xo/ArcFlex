@@ -1,0 +1,16 @@
+{
+    "name": "arcflex",
+    "version": "0.1.0",
+    "description": "Open-source Rich Presence manager for unsuported games.",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "INFANT RICHU SM",
+    "license": "MIT",
+    "dependencies": {
+        "discord-rpc": "^4.0.1",
+        "dotenv": "^17.4.2",
+        "ps-list": "^8.1.1"
+    }
+}
