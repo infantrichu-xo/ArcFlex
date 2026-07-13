@@ -1,0 +1,24 @@
+{
+  "RobloxPlayer": {
+     "name": "Roblox",
+     "details": "Exploring Experiences",
+     "state": "Playing Roblox",
+     "largeImageKey": "roblox",
+     "smallImageKey": "arkflex",
+     "startTimestamp": true
+  },
+
+"java": {
+    "name": "Minecraft Java Edition",
+    "details": "Mining Blocks",
+    "state": "Playing Minecraft",
+    "largeImageKey": "minecraft"
+  },
+
+"NTE": {
+    "name": "Neverness to Everness",
+    "details": "Exploring Hethereau",
+    "state": "Playing NTE",
+    "largeImageKey": "nte"
+  }
+}
