@@ -1,6 +1,6 @@
 const detectProcesses = require("./core/detector");
 const findGame = require("./core/manager");
-const { getCurrentGame } = require("./core/roblox")
+const { parseRobloxLog } = require("./core/roblox")
 const { getExperience } = require("./core/experience");
 
 const { 
@@ -23,7 +23,7 @@ setInterval(async () => {
         return;
     }
 
-    const currentGame = getCurrentGame();
+    const currentGame = parseRobloxLog();
 
     let experience = null;
 
