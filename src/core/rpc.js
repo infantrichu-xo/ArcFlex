@@ -1,30 +1,98 @@
+const RPC = require("discord-rpc");
 require("dotenv").config();
 
-const RPC = require("discord-rpc");
+const client = new RPC.Client({ transport: "ipc" });
 
-const clientId = process.env.CLIENT_ID;
+let connected = false;
+let startTime = null;
 
-RPC.register(clientId);
+async function connectRPC() {
+    if (connected) return;
 
-const rpc = new RPC.Client({ transport: "ipc"});
-
-const startTimestamp = new Date();
-
-rpc.on("ready", () => {
-    console.log("✅ Connected to Discord!");
-
-    rpc.setActivity({
-        details: "🚀 Building Arcflex",
-        state: "Discord Rich Presence",
-        startTimestamp,
-
-        largeImageKey: "arcflex",
-        largeImageText: "Arcflex",
-    
-        instance: false,
+    client.on("ready", () => {
+        connected = true;
+        console.log("✅ Connected to Discord!");
     });
 
-    console.log("🎉 Rich Presence is now active!");
-});
+    try {
+        await client.login({
+            clientId: process.env.CLIENT_ID,
+        });
+    } catch (err) {
+        console.error("❌ Failed To connect to Discord");
+        console.error(err.message);
+    }
+}
 
-rpc.login({ clientId }).catch(console.error);
+function updatePresence(game, experience) {
+
+    if(!connected) return;
+
+    if (!startTime) {
+        startTime = new Date();
+    }
+
+    console.log("📡 Sending Presence..");
+
+    const validExperience =
+    experience &&
+    !experience.error &&
+    experience.name &&
+    experience.playing != null;
+
+    console.log({
+        details: "Flexing ROBLOX",
+
+        state: validExperience
+           ? experience.name
+           : "Browsing Experiences",
+        largeImageKey: "roblox",
+
+        smallImageKey: "arcflex",
+
+        largeImageText: validExperience
+        ? `${experience.playing.toLocaleString()} players online`
+        : "Roblox",
+
+        smallImageText: "ArcFlex",
+    });
+
+    client.setActivity({
+        details: "Flexing ROBLOX",
+
+        state: validExperience
+            ? experience.name: 
+            "Browsing Experiences",
+        
+        largeImageKey: "roblox",
+        smallImageKey: "aarcflex",
+
+        largeImageText: validExperience
+        ? `${experience.playing.toLocaleString()} players online`
+        : "Roblox",
+
+        smallImageText: "Arcflex",
+
+        startTimestamp: startTime,
+
+        instance: false,
+
+    });
+
+    console.log("✅ Sent Presence!");
+
+}
+
+function clearPresence() {
+    if (!connected) return;
+
+    startTime = null;
+    client.clearActivity();
+}
+
+module.exports = {
+    client,
+    connectRPC,
+    updatePresence,
+    clearPresence,
+}

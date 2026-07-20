@@ -1,0 +1,2459 @@
+
+> arcflex@0.1.0 start
+> node src/index.js
+
+◇ injected env (1) from .env // tip: ⌘ suppress logs { quiet: true }
+❌ Failed To connect to Discord
+connection closed
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+🌐 Fetching experience from ArcFlex API: 9910245722
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T033125Z_Player_6f15b_last.log
+
+========== LAST 500 CHARS ==========
+
+fa159d80,6 [FLog::SessionTransitionFSM] Session history: ...JSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSASPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPJSPSAT
+2026-07-17T09:49:24.634Z,22678.634766,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T09:49:26.144Z,22680.144531,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [
+  'placeid:129300814231343',
+  'placeid:109715918987082',
+  'placeid:113604074601559',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:132445869992129',
+  'placeid:117533937949084',
+  'placeid:88838868041067',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:91584731222940',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:119524374829397',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:116456628154258',
+  'placeid:117533937949084',
+  'placeid:91584731222940'
+]
+Universe Matches: [
+  'universeid:10097648664', 'universeid:9952351777', 'universeid:7812848099',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722', 'universeid:9910245722',
+  'universeid:9910245722',  'universeid:9910245722'
+]
+Current Roblox Game:
+{
+  placeId: '91584731222940',
+  universeId: '9910245722',
+  lastUpdated: 1784293187262
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+] settingsUrl: https://clientsettingscdn.roblox.com/v2/settings-compressed/application/MacDesktopClient/6f1b3e3134142abbd3dbb5a48d1fd084042cf24b5a5c01eb3956d1de1deef107.dcz
+2026-07-17T13:00:16.634Z,0.634059,6dd3f000,6,Info [FLog::UpdateController] Update check thread started
+2026-07-17T13:00:16.634Z,0.634436,6dd3f000,6,Info [FLog::UpdateController] Checking if updater exists at /Applications/Roblox.app/Contents/MacOS/RobloxPlayerInstaller.app/Contents/MacOS/RobloxPlayerInstaller. Returning true
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+dPatch: numAttemptsRemaining: 1
+2026-07-17T13:00:19.844Z,3.844463,6df4b000,6,Warning [FLog::DataModelPatchConfigurer] getCachedPatchFromConfig: contentId=https://www.roblox.com/asset/?id=80471914653504&version=10480
+2026-07-17T13:00:19.844Z,3.844477,6df4b000,6,Warning [FLog::DataModelPatchConfigurer] getCachedPatch: get patch from local backup cache for Model: 80471914653504.10480
+2026-07-17T13:00:19.844Z,3.844624,6df4b000,6 [FLog::DataModelPatchConfigurer] deserializeAndVerifyPatch with blake3
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+hecking existence of OTA Assets Manifest with OTA Config Name '80471914653504.10480' in RbxStorage: Found
+2026-07-17T13:00:20.714Z,4.714586,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Update OTA config deployed
+2026-07-17T13:00:20.714Z,4.714595,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] OTA config updated, checking patch
+2026-07-17T13:00:20.714Z,4.714606,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Updated OTA config already cached.
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+hecking existence of OTA Assets Manifest with OTA Config Name '80471914653504.10480' in RbxStorage: Found
+2026-07-17T13:00:20.714Z,4.714586,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Update OTA config deployed
+2026-07-17T13:00:20.714Z,4.714595,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] OTA config updated, checking patch
+2026-07-17T13:00:20.714Z,4.714606,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Updated OTA config already cached.
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+hecking existence of OTA Assets Manifest with OTA Config Name '80471914653504.10480' in RbxStorage: Found
+2026-07-17T13:00:20.714Z,4.714586,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Update OTA config deployed
+2026-07-17T13:00:20.714Z,4.714595,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] OTA config updated, checking patch
+2026-07-17T13:00:20.714Z,4.714606,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Updated OTA config already cached.
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Update OTA config deployed
+2026-07-17T13:00:20.714Z,4.714595,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] OTA config updated, checking patch
+2026-07-17T13:00:20.714Z,4.714606,6d8df000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Updated OTA config already cached.
+2026-07-17T13:00:31.837Z,15.837055,fa159d80,6 [FLog::Output] Saved channel '' to 'com.roblox.RobloxPlayerChannel' for baseUrl 'www.roblox.com'
+
+
+====================================
+
+Place Matches: null
+Universe Matches: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+22,6d47f000,7 [FLog::Network] Assigned peer id = 330
+2026-07-17T13:00:33.086Z,17.086393,6d47f000,6,Info [FLog::TestServiceLog] [onServiceProvider] DebugUTPLauncherWebSocketUri='' DebugEnableTestServiceV2=0 wsOptIn=0
+2026-07-17T13:00:33.086Z,17.086411,6d47f000,6,Info [FLog::TestServiceLog] [onServiceProvider] this=0x145743c80 dm=0x171a3dc80 wsOptIn=0 isStudio=0 isServer=0 isPlayClient=1 isNonNetworkEdit=0
+2026-07-17T13:00:33.087Z,17.087267,6d47f000,7 [FLog::Network] Join snapshot timer: 1.770167
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+
+🎮 Game Detected!
+
+Game: Roblox
+Experience: Iron Soul: Dungeon
+Experience: 19,025
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+Anchored=false, anchoredParts=0, ctrlsEn=true, hasCtrl=true, ctrlEn=true, ctrlMV=0, 0, 0, hasHum=true, scrnOpen=nil
+2026-07-17T13:00:37.523Z,21.523003,6db77000,6 [FLog::Warning] Warning: Cloud instance must exist under Terrain node in workspace to be visible.
+2026-07-17T13:00:37.523Z,21.523434,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] [SetControlEnabledTrace] hooks installed
+2026-07-17T13:00:37.528Z,21.528128,6db77000,6 [FLog::Output] [TranslationUtil] get translator for LocalPlayer cost 0.000
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+
+🎮 Game Detected!
+
+Game: Roblox
+Experience: Iron Soul: Dungeon
+Experience: 19,025
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+Z,21.528128,6db77000,6 [FLog::Output] [TranslationUtil] get translator for LocalPlayer cost 0.000
+2026-07-17T13:00:37.894Z,21.894739,6db77000,6 [FLog::Output] [ReplicaController]: Initial data received
+2026-07-17T13:00:37.907Z,21.907099,6db77000,6 [FLog::Output]  AB Get CLient  A
+2026-07-17T13:00:40.178Z,24.178619,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+
+🎮 Game Detected!
+
+Game: Roblox
+Experience: Iron Soul: Dungeon
+Experience: 19,025
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+-07-17T13:00:37.894Z,21.894739,6db77000,6 [FLog::Output] [ReplicaController]: Initial data received
+2026-07-17T13:00:37.907Z,21.907099,6db77000,6 [FLog::Output]  AB Get CLient  A
+2026-07-17T13:00:40.178Z,24.178619,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:41.477Z,25.477428,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] IsAnyScreenOpen -> true
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+
+🎮 Game Detected!
+
+Game: Roblox
+Experience: Iron Soul: Dungeon
+Experience: 19,025
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+0,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:41.477Z,25.477428,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] IsAnyScreenOpen -> true
+2026-07-17T13:00:45.209Z,29.209339,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=UNBOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+📦 Using cached experience.
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: {
+  name: 'Iron Soul: Dungeon',
+  playing: 19025,
+  visits: 136298252,
+  creator: 'Iron Soul',
+  genre: 'All',
+  icon: 'https://tr.rbxcdn.com/180DAY-9f3937d807b20e7fa39828573229f4f0/512/512/Image/Png/noFilter'
+}
+
+🎮 Game Detected!
+
+Game: Roblox
+Experience: Iron Soul: Dungeon
+Experience: 19,025
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+0, hrpAnchored=false, anchoredParts=0, ctrlsEn=true, hasCtrl=true, ctrlEn=true, ctrlMV=0, 0, 0, hasHum=true, scrnOpen=false
+2026-07-17T13:00:49.110Z,33.110596,6fb07000,6,Error [DFLog::SQLite] Database::walCheckpoint, rc: 6, log: -1, ckpt: -1, elapsed: 4380.750 us
+2026-07-17T13:00:49.114Z,33.114079,6e363000,6 [FLog::DataModelPatchConfigurer] [_UniversalAppPatch] Update OTA config
+2026-07-17T13:00:49.114Z,33.114159,6e363000,6 [FLog::DataModelPatchConfigurer] [_InExperiencePatch] Update OTA config
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+Z,34.043346,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] POST-SCREEN-CLOSE(2s): ws=25.75, ps=false, seat=false, state=Enum.HumanoidStateType.Running, md=0, 0, 0, hrpAnchored=false, anchoredParts=0, ctrlsEn=true, hasCtrl=true, ctrlEn=true, ctrlMV=0, 0, 0, hasHum=true, scrnOpen=false
+2026-07-17T13:00:50.242Z,34.242363,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+rue, ctrlEn=true, ctrlMV=0, 0, 0, hasHum=true, scrnOpen=false
+2026-07-17T13:00:50.242Z,34.242363,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:55.275Z,39.275604,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+rue, ctrlEn=true, ctrlMV=0, 0, 0, hasHum=true, scrnOpen=false
+2026-07-17T13:00:50.242Z,34.242363,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:55.275Z,39.275604,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:55.275Z,39.275604,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:00.276Z,44.276833,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:00:55.275Z,39.275604,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:00.276Z,44.276833,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:00.276Z,44.276833,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:05.309Z,49.309383,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:05.309Z,49.309383,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:10.309Z,54.309845,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:05.309Z,49.309383,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:10.309Z,54.309845,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:10.309Z,54.309845,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:15.310Z,59.310364,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+12 [DFLog::HttpTraceError] CURLOPT_ERRORBUFFER: Connection timed out after 59999 milliseconds
+2026-07-17T13:01:18.059Z,62.059834,6d8df000,12 [DFLog::HttpTraceError] HttpResponse(#23 0x142dd90a0) time:60108.2ms (net:60028.1ms timeInRetryQueue:0.0ms) error:5 message:HttpError: Timedout url:{ "http://10.110.101.222:5052" } ip: external:0 numberOfTimesRetried:0
+2026-07-17T13:01:18.059Z,62.059868,6d8df000,6 [DFLog::WebSocketTraceError] ws: 1 url: http://10.110.101.222:5052 error: HttpError: Timedout
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+8.1ms timeInRetryQueue:0.0ms) error:5 message:HttpError: Timedout url:{ "http://10.110.101.222:5052" } ip: external:0 numberOfTimesRetried:0
+2026-07-17T13:01:18.059Z,62.059868,6d8df000,6 [DFLog::WebSocketTraceError] ws: 1 url: http://10.110.101.222:5052 error: HttpError: Timedout
+2026-07-17T13:01:20.343Z,64.343643,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+ 1 url: http://10.110.101.222:5052 error: HttpError: Timedout
+2026-07-17T13:01:20.343Z,64.343643,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:25.347Z,69.347054,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+veRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:25.347Z,69.347054,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:27.417Z,71.417107,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:01:27.417Z,71.417511,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+veRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:27.417Z,71.417107,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:01:27.417Z,71.417511,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:01:30.369Z,74.369308,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+veRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:27.417Z,71.417107,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:01:27.417Z,71.417511,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:01:30.369Z,74.369308,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+ing [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:01:30.369Z,74.369308,6e157000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:35.425Z,79.425018,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:35.425Z,79.425018,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:40.482Z,84.482964,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:35.425Z,79.425018,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:40.482Z,84.482964,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:40.482Z,84.482964,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:45.525Z,89.525505,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:40.482Z,84.482964,6e363000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:45.525Z,89.525505,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:45.525Z,89.525505,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:50.544Z,94.544350,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:50.544Z,94.544350,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:55.560Z,99.560753,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+oveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:50.544Z,94.544350,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:55.560Z,99.560753,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+veRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:55.560Z,99.560753,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:00.571Z,104.571571,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+veRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:01:55.560Z,99.560753,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:00.571Z,104.571571,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+eRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:00.571Z,104.571571,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:05.572Z,109.572403,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+eRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:05.572Z,109.572403,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:10.608Z,114.608490,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+eRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:05.572Z,109.572403,6df4b000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:10.608Z,114.608490,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+,122.136787,6d8df000,6,Info [FLog::TombstoneCache] [FlagCache] Tombstone check passed: 1
+2026-07-17T13:02:18.137Z,122.137192,6d8df000,6,Info [FLog::TombstoneCache] [FlagCache] Tombstone 1, expiry time 360, holdout false, channel '' (production), written to file: /var/folders/hj/_wqf4b8n4fx5jf11m06kcb9c0000gn/T/Roblox/cache/tombstone.dat
+2026-07-17T13:02:18.137Z,122.137405,6d8df000,6,Info [FLog::DynamicFastVariableReloader] DynamicFastVariableReloader finished flag fetch. Tombstone status: valid
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+ channel '' (production), written to file: /var/folders/hj/_wqf4b8n4fx5jf11m06kcb9c0000gn/T/Roblox/cache/tombstone.dat
+2026-07-17T13:02:18.137Z,122.137405,6d8df000,6,Info [FLog::DynamicFastVariableReloader] DynamicFastVariableReloader finished flag fetch. Tombstone status: valid
+2026-07-17T13:02:20.656Z,124.656837,6e987000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+ableReloader finished flag fetch. Tombstone status: valid
+2026-07-17T13:02:20.656Z,124.656837,6e987000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:24.278Z,128.278732,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:02:24.278Z,128.278854,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+[FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:02:25.280Z,129.280289,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:02:25.280Z,129.280365,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:02:25.687Z,129.687149,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+g [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:02:25.687Z,129.687149,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:30.697Z,134.697662,6e987000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+g [FLog::SurfaceController] SurfaceController[_:1]::update.
+2026-07-17T13:02:25.687Z,129.687149,6db77000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:30.697Z,134.697662,6e987000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+eRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:30.697Z,134.697662,6e987000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:35.722Z,139.722412,6e56f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+ightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:40.734Z,144.734558,6d47f000,6 [FLog::Output] [MOVEMENT DEBUG] CAS: moveForwardAction=BOUND, moveBackwardAction=BOUND, moveLeftAction=BOUND, moveRightAction=BOUND, jumpAction=BOUND, JumpInputAction=BOUND
+2026-07-17T13:02:41.895Z,145.895752,fa159d80,6 [FLog::SingleSurfaceApp] updateSurfaceLuaApp: (stage:UGCGame)
+2026-07-17T13:02:41.895Z,145.895874,fa159d80,6,Warning [FLog::SurfaceController] SurfaceController[_:1]::update.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+plicator destroyed: 0x18c51f700
+2026-07-17T13:02:44.951Z,148.951065,fa159d80,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2026-07-17T13:02:44.951Z,148.951096,fa159d80,6,Warning [FLog::Graphics] TM2: maxCloudAssetDimension: 4096
+2026-07-17T13:02:44.953Z,148.953140,fa159d80,6 [FLog::Graphics] Future is bright shadows
+2026-07-17T13:02:44.955Z,148.955902,fa159d80,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+plicator destroyed: 0x18c51f700
+2026-07-17T13:02:44.951Z,148.951065,fa159d80,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2026-07-17T13:02:44.951Z,148.951096,fa159d80,6,Warning [FLog::Graphics] TM2: maxCloudAssetDimension: 4096
+2026-07-17T13:02:44.953Z,148.953140,fa159d80,6 [FLog::Graphics] Future is bright shadows
+2026-07-17T13:02:44.955Z,148.955902,fa159d80,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+plicator destroyed: 0x18c51f700
+2026-07-17T13:02:44.951Z,148.951065,fa159d80,6 [FLog::SurfaceController] SurfaceController::RenderJob::scheduleRender: No data model. Bind workspace now...
+2026-07-17T13:02:44.951Z,148.951096,fa159d80,6,Warning [FLog::Graphics] TM2: maxCloudAssetDimension: 4096
+2026-07-17T13:02:44.953Z,148.953140,fa159d80,6 [FLog::Graphics] Future is bright shadows
+2026-07-17T13:02:44.955Z,148.955902,fa159d80,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+
+🎮 Game Detected!
+
+Game: Roblox
+Details: Exploring Experiences
+State: Playing Roblox
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+,157.101303,fa159d80,6 [FLog::SessionTransitionFSM] Tearing down.
+2026-07-17T13:02:53.101Z,157.101807,fa159d80,6 [FLog::SessionTransitionFSM] Session history: IASPSAT
+2026-07-17T13:02:53.101Z,157.101822,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T13:02:53.714Z,157.714355,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T13:02:53.714Z,157.714417,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+,157.101303,fa159d80,6 [FLog::SessionTransitionFSM] Tearing down.
+2026-07-17T13:02:53.101Z,157.101807,fa159d80,6 [FLog::SessionTransitionFSM] Session history: IASPSAT
+2026-07-17T13:02:53.101Z,157.101822,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T13:02:53.714Z,157.714355,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T13:02:53.714Z,157.714417,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+❌ No supported game detected.
+Latest log: /Users/infantrichusm/Library/Logs/Roblox/0.730.0.7300790_20260717T130016Z_Player_a2b55_last.log
+
+========== LAST 500 CHARS ==========
+
+,157.101303,fa159d80,6 [FLog::SessionTransitionFSM] Tearing down.
+2026-07-17T13:02:53.101Z,157.101807,fa159d80,6 [FLog::SessionTransitionFSM] Session history: IASPSAT
+2026-07-17T13:02:53.101Z,157.101822,fa159d80,6,Info [FLog::AppMemUsageStatus] 3616824723
+2026-07-17T13:02:53.714Z,157.714355,fa159d80,6,Info [DFLog::AppPlatformQoSEmergency] AppPlatformQoSEmergencyHandler was destroyed.
+2026-07-17T13:02:53.714Z,157.714417,fa159d80,6,Info [DFLog::SystemDialogHandler] Platform handler was destroyed.
+
+
+====================================
+
+Place Matches: [ 'placeid:117533937949084' ]
+Universe Matches: [ 'universeid:9910245722' ]
+Current Roblox Game:
+{
+  placeId: '117533937949084',
+  universeId: '9910245722',
+  lastUpdated: 1784293235272
+}
+Experience: null
+❌ No supported game detected.
